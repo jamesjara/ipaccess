@@ -1,0 +1,5 @@
+1- archivos de configuracion en el servidor(php)
+	para utilizar el script se debe meter en un include
+2- programa q leee el txt, esta en trayicon. 
+		- genera una alerta cada ves q una ip entra
+		- explorador.hora de entrada.ip.ipproxy.pais.os
